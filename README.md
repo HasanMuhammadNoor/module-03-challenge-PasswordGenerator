@@ -1,6 +1,6 @@
 # module-03-challenge-PasswordGenerator
 ![](Screenshot%202022-11-06%20at%201.18.37%20AM.png)
-link:
+link: https://hasanmuhammadnoor.github.io/module-03-challenge-PasswordGenerator/
 ## How To Use
 To use this program, you MUST respond to ALL prompt(s) and alert(s).
 ## User Story
